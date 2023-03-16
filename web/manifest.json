@@ -1,11 +1,11 @@
 {
-    "name": "flutter_webapi_first_course",
-    "short_name": "flutter_webapi_first_course",
+    "name": "flutter_webapi_journal",
+    "short_name": "flutter_webapi_journal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Projeto do primeiro curso de WebAPI da Formação Flutter",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
